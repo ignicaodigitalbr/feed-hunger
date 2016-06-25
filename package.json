@@ -1,0 +1,25 @@
+{
+  "name": "feed-hunger",
+  "version": "1.0.0",
+  "description": "A library to get blog posts and their open graph images from RSS feeds",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignicaodigitalbr/feed-hunger.git"
+  },
+  "keywords": [
+    "rss",
+    "feed",
+    "OpenGraph",
+    "blog",
+    "post"
+  ],
+  "author": "Thomás Alvarenga (https://github.com/alvarengathomas)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ignicaodigitalbr/feed-hunger/issues"
+  },
+  "homepage": "https://github.com/ignicaodigitalbr/feed-hunger#readme",
+  "dependencies": {
+    "node-fetch": "^1.5.3"
+  }
+}
